@@ -28,7 +28,7 @@ No more `cd`-ing into directories. No more copy-pasting paths.
 **Install:**
 
 ```bash
-git clone https://github.com/xingeti/claudehere.git
+git clone https://github.com/zxmio/claudehere.git
 cd claudehere
 bash scripts/install.sh
 ```
@@ -61,7 +61,7 @@ Adds **"Open Claude Code Here"** to the File Explorer right-click menu.
 **Install (run PowerShell as Administrator):**
 
 ```powershell
-git clone https://github.com/xingeti/claudehere.git
+git clone https://github.com/zxmio/claudehere.git
 cd claudehere
 powershell -ExecutionPolicy Bypass -File scripts\install-windows.ps1
 ```
@@ -111,7 +111,7 @@ MIT
 **安装：**
 
 ```bash
-git clone https://github.com/xingeti/claudehere.git
+git clone https://github.com/zxmio/claudehere.git
 cd claudehere
 bash scripts/install.sh
 ```
@@ -144,7 +144,7 @@ bash scripts/uninstall.sh
 **安装（以管理员身份运行 PowerShell）：**
 
 ```powershell
-git clone https://github.com/xingeti/claudehere.git
+git clone https://github.com/zxmio/claudehere.git
 cd claudehere
 powershell -ExecutionPolicy Bypass -File scripts\install-windows.ps1
 ```
